@@ -47,11 +47,13 @@ h1 {
 
 #clue p {
   margin: 0;
-  font-size: 3rem;
+  font-size: 2rem;
   letter-spacing: 0.5em;
   font-family: "Comic Sans MS", sans-serif;
 }
-
+span {
+  color: red;
+}
 /* 
  This class will grey out the letters as they are used. 
  Just add the class "used".
